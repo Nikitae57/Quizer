@@ -5,7 +5,7 @@
 
 <b>To build this project simply open it in your Intelij Idead IDE and press "build" button.</b>
 
-Once you built the application you'll see the GUI. 
+Once you run the application you'll see the GUI. 
 
 ![GUI](https://image.ibb.co/ga2tZb/Screenshot_1.png)
 
